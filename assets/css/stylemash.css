@@ -1,0 +1,100 @@
+.section {
+  margin-inline: auto;
+  margin: 0 auto;
+  position: relative;
+  top: 330px;
+  align-items: center;
+  align-content: center;
+}
+
+.title {
+  text-align: center;
+}
+
+.title h1 {
+  font-weight: 800;
+  font-size: 42px;
+  line-height: 60px;
+  letter-spacing: -0.03em;
+  margin-bottom: 4px;
+}
+
+.title small {
+  padding-top: 80px;
+  font-size: 15px;
+}
+
+.middle-container {
+  display: flex;
+  /* padding-inline: 50px; */
+  justify-content: space-around;
+  /* gap: 10px; */
+  max-width: 1100px;
+  margin-top: 20px;
+  margin-left: 15%;
+  height: 400px;
+}
+
+.box {
+  background: #ffffff;
+  /* width: 550px; */
+  /* height: 450px; */
+  border: 1px solid #dfdfdf;
+  border-radius: 22px;
+  margin: 10px;
+  align-content: center;
+  max-width: 500px;
+}
+
+.box .content {
+  margin-top: 130px;
+  margin-left: 33px;
+}
+
+.box .content h2 {
+  font-weight: 650;
+  font-size: 24px;
+  line-height: 33px;
+  letter-spacing: -0.03em;
+  color: #1b1c31;
+}
+
+.box .content p {
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 30px;
+  letter-spacing: -0.02em;
+  color: #64607d;
+}
+
+/* .box-1 small {
+  margin-inline: space-between;
+  margin: top 28px;
+  padding-top: 14px;
+} */
+
+.box .content a {
+  font-weight: 600;
+  font-size: 16px;
+  line-height: 16px;
+  color: #01966b;
+  text-decoration: none;
+}
+
+.more {
+  text-align: center;
+  position: relative;
+  margin-top: 42px;
+  top: -15px;
+}
+
+.more button {
+  margin: top 42px;
+  align-content: center;
+  width: 220px;
+  height: 60px;
+  color: white;
+  background-color: #4f46ba;
+  border: none;
+  border-radius: 10px;
+}
