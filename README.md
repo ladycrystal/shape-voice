@@ -8,4 +8,4 @@ This is a landing page UI of the Shapevoice payment system
 * Tech stack: HTML + CSS
 * Design is responsive for small screen
 * [Figma file](https://www.figma.com/file/vIlaWvGgGETRHgxR96RVck/Jagaad-Module-1-Exam?t=VgOVAn98XKw6NzPn-0) of the task 
-* Preview
+* [Preview](https://ladycrystal.github.io/shape-voice/)
